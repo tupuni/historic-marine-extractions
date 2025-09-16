@@ -1,15 +1,15 @@
-region	taxa_group	taxa	period	"extraction_method: 
-Foraging and collection"	"extraction_method: 
-Spears, harpoons (unmechanised)"	"extraction_method: 
-Hand lines, hand nets"	"extraction_method: 
-Other hand held weapons (e.g. axes, clubs, guns)"	"extraction_method: 
-Fixed traps (e.g. coastal fish traps of stone or wood)"	"extraction_method: 
+region,taxa_group,taxa,period,"extraction_method: 
+Foraging and collection","extraction_method: 
+Spears, harpoons (unmechanised)","extraction_method: 
+Hand lines, hand nets","extraction_method: 
+Other hand held weapons (e.g. axes, clubs, guns)","extraction_method: 
+Fixed traps (e.g. coastal fish traps of stone or wood)","extraction_method: 
 Portable traps (e.g. lobster pots)
-"	"extraction_method: 
-Nets and longlines (unmechanised)"	"extraction_method: 
-Nets, longlines, harpoons (mechanised)"	"extraction_method: 
-Other"	extraction_level	sustainable_or_not	drivers_of_change	"extraction_for_ Nonmarket_consumption_(e.g., recreational, subsistence, non-commercial fishing)"	extraction_for_ Local_markets	extraction_for_ Regional markets	"extraction_for_ Inter-regional markets (e.g. long distance, transoceanic)"	bibliographical_ref
-name	"Small pelagic fish (e.g. herring, mackrel)
+","extraction_method: 
+Nets and longlines (unmechanised)","extraction_method: 
+Nets, longlines, harpoons (mechanised)","extraction_method: 
+Other",extraction_level,sustainable_or_not,drivers_of_change,"extraction_for_ Nonmarket_consumption_(e.g., recreational, subsistence, non-commercial fishing)",extraction_for_ Local_markets,extraction_for_ Regional markets,"extraction_for_ Inter-regional markets (e.g. long distance, transoceanic)",bibliographical_ref
+name,"Small pelagic fish (e.g. herring, mackrel)
 Large pelagic fish (e.g. bluefin tuna, sharks)
 Demersal fish (e.g. cod, flatfish)
 Reef fish
@@ -22,178 +22,178 @@ Small cetaceans (e.g. dolphins, porpoises)
 Sea cows (e.g. Steller's sea cow, manatees, dugongs)
 Turtles
 Seabirds
-Other"	genus_species	centuries	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"none OR
+Other",genus_species,centuries,"Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","none OR
 light OR
 moderate OR
 heavy OR 
-don't know"	"yes OR
+don't know","yes OR
 no OR 
-don't know"	"free text, use keywords (examples: demographic change, technological advance such as transport preservation technology, knowledge exchange, opening of new or disruption/failure of markets, natural disasters, environmental/ecosystem change, conflicts...)."	"0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	"0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)"	ref
-Marquesas Islands	Marine plants	Enteromorpha flexuosa	20 (Ethno)	3	0	0	0	0	0	0	0		light	no	most widespread species among the collected ones in the northern Marquesas	3	0	0	0	conte2002
-Marquesas Islands	Marine plants	Cladophora patentiramea	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002
-Marquesas Islands	Marine plants	Ulva lactuca	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002
-Marquesas Islands	Marine plants	Caulerpa racemosa	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002
-Marquesas Islands	Marine plants	Codium arabicum	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002
-Marquesas Islands	Marine plants	Cladophora patentiramea	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002
-Marquesas Islands	Marine plants	Caulerpa racemosa	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002
-Austral Islands	Marine plants	Caulerpa bikinensi	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002
-Society Islands	Marine plants	Ulva lactuca	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	conte2002; setchell1926
-Hawaii Islands	Marine plants	Enteromorpha flexuosa	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Hawaii Islands	Marine plants	Cladophora patentiramea	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Hawaii Islands	Marine plants	Ulva lactuca	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Hawaii Islands	Marine plants	Caulerpa racemosa	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Hawaii Islands	Marine plants	Codium arabicum	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Hawaii Islands	Marine plants	Cladophora patentiramea	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Hawaii Islands	Marine plants	Caulerpa racemosa	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Hawaii Islands	Marine plants	Codium geppiorum	20 (Ethno)	3	0	0	0	0	0	0	0		moderate	no	"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially."	3	0	0	0	conte2002; abbott1984; abbott1991
-Austral Islands	Marine plants	rimu otaha	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	aitken1930
-Austral Islands	Marine plants	rimu tu	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	aitken1930
-Austral Islands	Marine plants	rimu opupu	20 (Ethno)	3	0	0	0	0	0	0	0		light	no		3	0	0	0	aitken1930
-Marquesas Islands	Large pelagic fish	Katsuwonus pelamis	20 (Ethno)	0		0	0	0	0	3	0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Large pelagic fish	Thunnus albacares	20 (Ethno)	0		0	0	0	0	3	0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Large pelagic fish	Acanthocybium solandri	20 (Ethno)	0		0	0	0	0	3	0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Large pelagic fish	Coryphaena hippurus	20 (Ethno)	0		0	0	0	0	3	0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Large pelagic fish	Sphyraena barracuda	20 (Ethno)	0		0	0	0	0	3	0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Large pelagic fish	Lethrinidae	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Large pelagic fish	Caranx ascensionis	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Large pelagic fish	Gumosarda unicolor	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Lethrinidae	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Lutjanidae	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Mullidae	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Balistidae	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Serranidae	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Holocentridae	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Myripristis sp.	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Selar crumenophthalmus	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Adiory caudimaculatus	20 (Ethno)	0		3	0	0	0		0		heavy			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	small Lutjanidae	20 (Ethno)	0		3	0	0	0		0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	small Serranidae	20 (Ethno)	0		3	0	0	0		0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Sphyraena forsteri	20 (Ethno)	0		3	0	0	0		0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Caranx sexfasciatus	20 (Ethno)	0		3	0	0	0		0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Caranx ascensionis	20 (Ethno)	0		3	0	0	0		0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Gymnosarda unicolor	20 (Ethno)	0		3	0	0	0		0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Myripristis sp.	20 (Ethno)	0						3	0		light			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Cypselurus simus	20 (Ethno)	0		3					0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Hvorhampbus acutus	20 (Ethno)	0		3					0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Hemiramphus depauperatus	20 (Ethno)	0		3					0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	smaller Selar crumenophthalmus	20 (Ethno)	0						3	0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Albula sp.	20 (Ethno)	0						3	0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Scomberoides lysan	20 (Ethno)	0						3	0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Blenniidae	20 (Ethno)	0	3						0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Manta alfredii	20 (Ethno)	0	3						0		moderate			3	0	0	0	rolett1998
-Marquesas Islands	Demersal fish	Ranzania laevis	20 (Ethno)	0	3						0		moderate			3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"11 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"12 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"13 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"14 (Phase 2, Strati E-F)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"15 (Phase 3-4, Strati E-F/C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"16 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"17 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"18 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Acanthuridae	"19 (Phase 5, Strati A-B)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"11 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"12 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"13 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"14 (Phase 2, Strati E-F)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"15 (Phase 3-4, Strati E-F/C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"16 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"17 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"18 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Balistidae	"19 (Phase 5, Strati A-B)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"11 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"12 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"13 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"14 (Phase 2, Strati E-F)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"15 (Phase 3-4, Strati E-F/C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"16 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"17 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"18 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (small)	"19 (Phase 5, Strati A-B)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (large)	"12 (Phase 1, Strati G)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (large)	"13 (Phase 1, Strati G)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (large)	"14 (Phase 2, Strati E-F)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Carangidae (large)	"15 (Phase 3-4, Strati E-F/C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"11 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"12 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"13 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"14 (Phase 2, Strati E-F)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"15 (Phase 3-4, Strati E-F/C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"16 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"17 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"18 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Scaridae	"19 (Phase 5, Strati A-B)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"11 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"12 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"13 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"14 (Phase 2, Strati E-F)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"15 (Phase 3-4, Strati E-F/C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"16 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"17 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Serranidae (small)	"18 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Sphyraenidae (medium)	"15 (Phase 3-4, Strati E-F/C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Sphyraenidae (medium)	"16 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Sphyraenidae (medium)	"17 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Sphyraenidae (medium)	"18 (Phase 4, Strati C-D)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Demersal fish	Sphyraenidae (medium)	"19 (Phase 5, Strati A-B)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"11 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"12 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"13 (Phase 1, Strati G-H)"													3	0	0	0	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"14 (Phase 2, Strati E-F)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"15 (Phase 3-4, Strati E-F/C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"16 (Phase 4, Strati C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"17 (Phase 4, Strati C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"18 (Phase 4, Strati C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Scombridae	"19 (Phase 5, Strati A-B)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Sphyraenidae (large)	"11 (Phase 1, Strati G-H)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Sphyraenidae (large)	"12 (Phase 1, Strati G-H)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Sphyraenidae (large)	"13 (Phase 1, Strati G-H)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Sphyraenidae (large)	"14 (Phase 2, Strati E-F)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Sphyraenidae (large)	"16 (Phase 4, Strati C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Sphyraenidae (large)	"17 (Phase 4, Strati C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Sphyraenidae (large)	"18 (Phase 4, Strati C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Lutjanidae (medium)	"11 (Phase 1, Strati G-H)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Lutjanidae (medium)	"12 (Phase 1, Strati G-H)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Lutjanidae (medium)	"13 (Phase 1, Strati G-H)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	Serranidae (large)	"16 (Phase 4, Strati C-D)"																	rolett1998
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	"Scombridae
+don't know","free text, use keywords (examples: demographic change, technological advance such as transport preservation technology, knowledge exchange, opening of new or disruption/failure of markets, natural disasters, environmental/ecosystem change, conflicts...).","0, 1, 2, 3, Dont know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","0, 1, 2, 3, Dont know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","0, 1, 2, 3, Dont know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","0, 1, 2, 3, Dont know
+(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)",ref
+Marquesas Islands,Marine plants,Enteromorpha flexuosa,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,most widespread species among the collected ones in the northern Marquesas,3,0,0,0,conte2002
+Marquesas Islands,Marine plants,Cladophora patentiramea,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
+Marquesas Islands,Marine plants,Ulva lactuca,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
+Marquesas Islands,Marine plants,Caulerpa racemosa,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
+Marquesas Islands,Marine plants,Codium arabicum,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
+Marquesas Islands,Marine plants,Cladophora patentiramea,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
+Marquesas Islands,Marine plants,Caulerpa racemosa,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
+Austral Islands,Marine plants,Caulerpa bikinensi,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
+Society Islands,Marine plants,Ulva lactuca,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002; setchell1926
+Hawaii Islands,Marine plants,Enteromorpha flexuosa,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Hawaii Islands,Marine plants,Cladophora patentiramea,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Hawaii Islands,Marine plants,Ulva lactuca,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Hawaii Islands,Marine plants,Caulerpa racemosa,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Hawaii Islands,Marine plants,Codium arabicum,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Hawaii Islands,Marine plants,Cladophora patentiramea,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Hawaii Islands,Marine plants,Caulerpa racemosa,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Hawaii Islands,Marine plants,Codium geppiorum,20 (Ethno),3,0,0,0,0,0,0,0,,moderate,no,"For pre-18th century Hawai'i, Abbott (1991) mentions the abundance and diversity of seaweed collected and consumed, especially by women given heavy food restrictions (kapu). Men collected and ate fish preferentially.",3,0,0,0,conte2002; abbott1984; abbott1991
+Austral Islands,Marine plants,rimu otaha,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,aitken1930
+Austral Islands,Marine plants,rimu tu,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,aitken1930
+Austral Islands,Marine plants,rimu opupu,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,aitken1930
+Marquesas Islands,Large pelagic fish,Katsuwonus pelamis,20 (Ethno),0,,0,0,0,0,3,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Large pelagic fish,Thunnus albacares,20 (Ethno),0,,0,0,0,0,3,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Large pelagic fish,Acanthocybium solandri,20 (Ethno),0,,0,0,0,0,3,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Large pelagic fish,Coryphaena hippurus,20 (Ethno),0,,0,0,0,0,3,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Large pelagic fish,Sphyraena barracuda,20 (Ethno),0,,0,0,0,0,3,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Large pelagic fish,Lethrinidae,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Large pelagic fish,Caranx ascensionis,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Large pelagic fish,Gumosarda unicolor,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Lethrinidae,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Lutjanidae,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Mullidae,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Balistidae,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Serranidae,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Holocentridae,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Myripristis sp.,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Selar crumenophthalmus,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Adiory caudimaculatus,20 (Ethno),0,,3,0,0,0,,0,,heavy,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,small Lutjanidae,20 (Ethno),0,,3,0,0,0,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,small Serranidae,20 (Ethno),0,,3,0,0,0,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Sphyraena forsteri,20 (Ethno),0,,3,0,0,0,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Caranx sexfasciatus,20 (Ethno),0,,3,0,0,0,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Caranx ascensionis,20 (Ethno),0,,3,0,0,0,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Gymnosarda unicolor,20 (Ethno),0,,3,0,0,0,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Myripristis sp.,20 (Ethno),0,,,,,,3,0,,light,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Cypselurus simus,20 (Ethno),0,,3,,,,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Hvorhampbus acutus,20 (Ethno),0,,3,,,,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Hemiramphus depauperatus,20 (Ethno),0,,3,,,,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,smaller Selar crumenophthalmus,20 (Ethno),0,,,,,,3,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Albula sp.,20 (Ethno),0,,,,,,3,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Scomberoides lysan,20 (Ethno),0,,,,,,3,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Blenniidae,20 (Ethno),0,3,,,,,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Manta alfredii,20 (Ethno),0,3,,,,,,0,,moderate,,,3,0,0,0,rolett1998
+Marquesas Islands,Demersal fish,Ranzania laevis,20 (Ethno),0,3,,,,,,0,,moderate,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Acanthuridae,"19 (Phase 5, Strati A-B)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Balistidae,"19 (Phase 5, Strati A-B)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (small),"19 (Phase 5, Strati A-B)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (large),"12 (Phase 1, Strati G)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (large),"13 (Phase 1, Strati G)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (large),"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Carangidae (large),"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Scaridae,"19 (Phase 5, Strati A-B)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Serranidae (small),"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Sphyraenidae (medium),"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Sphyraenidae (medium),"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Sphyraenidae (medium),"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Sphyraenidae (medium),"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Demersal fish,Sphyraenidae (medium),"19 (Phase 5, Strati A-B)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,3,0,0,0,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"15 (Phase 3-4, Strati E-F/C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Scombridae,"19 (Phase 5, Strati A-B)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Sphyraenidae (large),"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Sphyraenidae (large),"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Sphyraenidae (large),"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Sphyraenidae (large),"14 (Phase 2, Strati E-F)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Sphyraenidae (large),"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Sphyraenidae (large),"17 (Phase 4, Strati C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Sphyraenidae (large),"18 (Phase 4, Strati C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Lutjanidae (medium),"11 (Phase 1, Strati G-H)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Lutjanidae (medium),"12 (Phase 1, Strati G-H)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Lutjanidae (medium),"13 (Phase 1, Strati G-H)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,Serranidae (large),"16 (Phase 4, Strati C-D)",,,,,,,,,,,,,,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,"Scombridae
 Sphyraenidae (large)
 Lutjanidae (medium)
-Serranidae (large)"	"11 (Phase 1, Strati G-H)"							3					"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
-This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c)."					
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	"Scombridae
+Serranidae (large)","11 (Phase 1, Strati G-H)",,,,,,,3,,,,,"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
+This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c).",,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,"Scombridae
 Sphyraenidae (large)
 Lutjanidae (medium)
-Serranidae (large)"	"12 (Phase 1, Strati G-H)"							3					"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
-This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c)."					
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	"Scombridae
+Serranidae (large)","12 (Phase 1, Strati G-H)",,,,,,,3,,,,,"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
+This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c).",,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,"Scombridae
 Sphyraenidae (large)
 Lutjanidae (medium)
-Serranidae (large)"	"13 (Phase 1, Strati G-H)"							3					"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
-This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c)."					
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	"Scombridae
+Serranidae (large)","13 (Phase 1, Strati G-H)",,,,,,,3,,,,,"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
+This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c).",,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,"Scombridae
 Sphyraenidae (large)
 Lutjanidae (medium)
-Serranidae (large)"	"14 (Phase 2, Strati E-F)"							3					"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
-This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c)."					
-"Hanamiai, Tahuata, Marquesas Islands"	Large pelagic fish	"Scombridae
+Serranidae (large)","14 (Phase 2, Strati E-F)",,,,,,,3,,,,,"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
+This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c).",,,,,rolett1998
+"Hanamiai, Tahuata, Marquesas Islands",Large pelagic fish,"Scombridae
 Sphyraenidae (large)
 Lutjanidae (medium)
-Serranidae (large)"	"15, first half (Phase 3, Strati E-F)"							3					"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
-This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c)."					
-Central East Polynesia and Hawaii	Small pelagic	Mugilidae	17					3												oliver2002
-Central East Polynesia and Hawaii	Small pelagic	Mugilidae	18					3												oliver2002
-Central East Polynesia and Hawaii	Small pelagic	Mugilidae	19					3												oliver2002
-Central East Polynesia and Hawaii	Small pelagic	Mugilidae	20					3												oliver2002
+Serranidae (large)","15, first half (Phase 3, Strati E-F)",,,,,,,3,,,,,"High frequency of trolling lure shanks and points associated with offshore fishing for pelagic species in phases 1, 2, and 3. Evidence for a sharp decline in the importance of offshore fishing for pelagic species during phase 3 (first decades of 15th cent) or shortly afterward.
+This interpretation is supported by results of the fish bone analysis, with a frequency of pelagic fishes around 25 to 35% in phases 1/2/3 (before 15th c) and sharp fall off under 8% in phases 4 and 5 (16-19th c).",,,,,rolett1998
+Central East Polynesia and Hawaii,Small pelagic,Mugilidae,17,,,,,3,,,,,,,,,,,,oliver2002
+Central East Polynesia and Hawaii,Small pelagic,Mugilidae,18,,,,,3,,,,,,,,,,,,oliver2002
+Central East Polynesia and Hawaii,Small pelagic,Mugilidae,19,,,,,3,,,,,,,,,,,,oliver2002
+Central East Polynesia and Hawaii,Small pelagic,Mugilidae,20,,,,,3,,,,,,,,,,,,oliver2002
