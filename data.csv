@@ -9,39 +9,6 @@ Portable traps (e.g. lobster pots)
 Nets and longlines (unmechanised)","extraction_method: 
 Nets, longlines, harpoons (mechanised)","extraction_method: 
 Other",extraction_level,sustainable_or_not,drivers_of_change,"extraction_for_ Nonmarket_consumption_(e.g., recreational, subsistence, non-commercial fishing)",extraction_for_ Local_markets,extraction_for_ Regional markets,"extraction_for_ Inter-regional markets (e.g. long distance, transoceanic)",bibliographical_ref
-name,"Small pelagic fish (e.g. herring, mackrel)
-Large pelagic fish (e.g. bluefin tuna, sharks)
-Demersal fish (e.g. cod, flatfish)
-Reef fish
-Invertebrates (e.g. crustaceans, molluscs, sponges, urchins, sea cucumber)
-Marine plants (e.g. seaweed, seagrass, mangrove)
-Otters (e.g. sea otters)
-Pinnipeds (e.g. seals, fur seals, sea lions and walruses)
-Large and medium cetaceans (e.g. right whales, grey whales and bowheads, blue and fin whales, humpbacks, sperm whales, bottlenose whales)
-Small cetaceans (e.g. dolphins, porpoises)
-Sea cows (e.g. Steller's sea cow, manatees, dugongs)
-Turtles
-Seabirds
-Other",genus_species,centuries,"Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","Not in use, 1, 2, 3, Don't know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","none OR
-light OR
-moderate OR
-heavy OR 
-don't know","yes OR
-no OR 
-don't know","free text, use keywords (examples: demographic change, technological advance such as transport preservation technology, knowledge exchange, opening of new or disruption/failure of markets, natural disasters, environmental/ecosystem change, conflicts...).","0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)","0, 1, 2, 3, Dont know
-(0 = method not in use/not relevant, up to 3 = widespread use of method, blank is dont know)",ref
 Marquesas Islands,Marine plants,Enteromorpha flexuosa,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,most widespread species among the collected ones in the northern Marquesas,3,0,0,0,conte2002
 Marquesas Islands,Marine plants,Cladophora patentiramea,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
 Marquesas Islands,Marine plants,Ulva lactuca,20 (Ethno),3,0,0,0,0,0,0,0,,light,no,,3,0,0,0,conte2002
